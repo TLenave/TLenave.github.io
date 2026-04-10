@@ -1,3 +1,9 @@
-title: Théo Lenavetier
-description: Postdoctoral researcher in Soft Matter Hydrodynamics
+title: Théo Lenavier
+description: Fluid dynamics researcher
 theme: minima
+
+header_pages:
+  - index.md
+  - research.md
+  - publications.md
+  - contact.md
