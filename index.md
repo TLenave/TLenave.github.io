@@ -7,7 +7,7 @@ Marangoni flows · Interfacial flows · Soft matter
 
 ## About
 
-I am a postdoctoral researcher working on interfacial transport phenomena, with a focus on Marangoni effects, complex fluids, and flows on structured or soft surfaces.
+I am a postdoctoral researcher working on interfacial transport phenomena.
 
 ---
 
