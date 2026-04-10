@@ -1,20 +1,47 @@
 # Théo Lenavier
 
-Postdoctoral researcher in fluid dynamics  
-Marangoni flows, interfacial flows, soft matter
+Postdoctoral researcher in fluid dynamics - KTH FLOW division
+Marangoni flows · Interfacial flows · Soft matter
+
+---
 
 ## About
 
-Welcome to my academic webpage.
+I am a postdoctoral researcher working on interfacial transport phenomena, with a focus on Marangoni effects, complex fluids, and flows on structured or soft surfaces.
+
+---
 
 ## Research
 
-My research focuses on interfacial transport phenomena.
+My work explores:
+
+- Marangoni-driven flows and interfacial stresses  
+- Lubricant-infused surfaces
+- Complex fluids and yield stress materials  
+- Optical measurement techniques: OCT, spectral imaging, confocal microscopy, µPIV
+
+---
 
 ## Publications
 
-- Coming soon
+*(to be updated)*
+
+---
+
+## Teaching
+
+*(to be updated)*
+
+---
+
+## CV
+
+[Download CV](#)
+
+---
 
 ## Contact
 
-theole@kth.se
+Email: theole@kth.se
+
+  
