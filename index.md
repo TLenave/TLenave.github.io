@@ -1,4 +1,3 @@
-# Théo Lenavetier
 
 Postdoctoral researcher in fluid dynamics - KTH FLOW division
 Marangoni flows · Interfacial flows · Soft matter
