@@ -4,6 +4,7 @@ theme: minima
 
 header_pages:
   - contact.md
+  - gallery.md
   - publications.md
   - research.md
   - index.md
