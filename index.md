@@ -9,9 +9,9 @@ title: Home
 
 <div>
 
-# Théo Lenavetier
+Théo Lenavetier
 
-Postdoctoral researcher in fluid dynamics  
+Postdoctoral researcher in fluid dynamics  \n
 Marangoni flows · Interfacial flows · Soft matter
 
 </div>
