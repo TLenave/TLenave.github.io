@@ -22,7 +22,7 @@ Marangoni flows · Interfacial flows · Soft matter
 ## About
 
 I am a postdoctoral researcher working on interfacial transport phenomena.
-[Download full CV (PDF)](/assets/cv.pdf)
+[Download full CV (PDF)](/docs/cv.pdf)
 
 ---
 
