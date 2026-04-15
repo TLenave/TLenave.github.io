@@ -25,7 +25,7 @@ I am a postdoctoral researcher working on interfacial transport phenomena.
  
 <a href="/docs/cv.pdf" target="_blank" rel="noopener noreferrer">[Full CV]</a>
 
-Email: theole@kth.se
+**Email**: theole@kth.se
 
 ---
 
