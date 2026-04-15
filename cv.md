@@ -26,7 +26,7 @@ Supervisor: Prof. Shervin Bagheri (ERC LUBFLOW)
 **Publication:**  
 - *Local slip length and surfactant effects on liquid-infused surfaces*  
   Journal of Fluid Mechanics, 2025  
-  [PDF](#)
+  [PDF](/articles/saoncella2025.pdf) [DOI](https://doi.org/10.1017/jfm.2025.10782)
 
 ---
 
@@ -44,22 +44,22 @@ DAMTP, University of Cambridge (4 months)
 Group of Prof. Raymond Goldstein  
 
 **Publications:**  
-- *Surfactant exchanges between deformed soap films* (PRL, 2025)  
-- *Line tension in a thick soap film* (PRL, 2024)  
-- *Nonlinear elasticity of foam films* (Soft Matter, 2022)
+- *Surfactant exchanges between deformed soap films* (PRL, 2025)  [PDF](/articles/lenavetier25.pdf)
+- *Line tension in a thick soap film* (PRL, 2024)  [PDF](/articles/lenavetier24.pdf)
+- *Nonlinear elasticity of foam films* (Soft Matter, 2022) [PDF](/articles/poryles22.pdf)
 
 ---
 
 ### Research Internships
 
 **iLM, Lyon, France** (2020)  
-Microfluidic hourglass systems, data analysis  
+Microfluidic hourglass
 
 **NTNU, Trondheim, Norway** (2019)  
-Active colloids, experiments and analysis  
+Vortical movements of active colloids
 
 **Saint-Gobain / CNRS, France** (2018)  
-Freezing in confined suspensions  
+Freezing dynamics of dense colloidal suspensions [PDF](/articles/ginot20.pdf)
 
 ---
 
@@ -67,7 +67,7 @@ Freezing in confined suspensions
 
 ### Master’s Degree (M2)  
 ENS Paris / Sorbonne Université  
-Soft Matter Physics (ICFP track)  
+Master ICFP, Track: Physics of soft condensed matter  
 Grade: 17.1 / 20  
 
 ### Engineering Degree  
