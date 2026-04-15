@@ -8,7 +8,7 @@ title: CV
 Postdoctoral researcher in fluid dynamics  
 KTH Royal Institute of Technology, Stockholm
 
-[Download full CV (PDF)](/assets/cv.pdf)
+<a href="/docs/cv.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
 
 ---
 
