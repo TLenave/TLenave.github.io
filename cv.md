@@ -3,7 +3,7 @@ layout: page
 title: CV
 ---
 
-# Théo Lenavier
+# Théo Lenavetier
 
 Postdoctoral researcher in fluid dynamics  
 KTH Royal Institute of Technology, Stockholm
