@@ -22,7 +22,10 @@ Marangoni flows · Interfacial flows · Soft matter
 ## About
 
 I am a postdoctoral researcher working on interfacial transport phenomena.
- <a href="/docs/cv.pdf" target="_blank" rel="noopener noreferrer">[Full CV]</a>
+ 
+<a href="/docs/cv.pdf" target="_blank" rel="noopener noreferrer">[Full CV]</a>
+
+Email: theole@kth.se
 
 ---
 
@@ -33,28 +36,5 @@ I am a postdoctoral researcher working on interfacial transport phenomena.
 - Complex fluids and yield stress materials  
 - Optical measurement techniques: OCT, spectral imaging, confocal microscopy, µPIV
 
----
-
-## Publications
-
-*(to be updated)*
-
----
-
-## Teaching
-
-*(to be updated)*
-
----
-
-## CV
-
-[Download CV](#)
-
----
-
-## Contact
-
-Email: theole@kth.se
 
   
