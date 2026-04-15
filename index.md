@@ -1,6 +1,7 @@
-
-Postdoctoral researcher in fluid dynamics - KTH FLOW division
-Marangoni flows · Interfacial flows · Soft matter
+---
+layout: home
+title: Home
+---
 
 <div style="display:flex; align-items:center; gap:30px;">
 
@@ -15,6 +16,9 @@ Marangoni flows · Interfacial flows · Soft matter
 
 </div>
 </div>
+
+Postdoctoral researcher in fluid dynamics - KTH FLOW division
+Marangoni flows · Interfacial flows · Soft matter
 
 ---
 
