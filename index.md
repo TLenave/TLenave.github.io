@@ -17,14 +17,12 @@ Marangoni flows · Interfacial flows · Soft matter
 </div>
 </div>
 
-Postdoctoral researcher in fluid dynamics - KTH FLOW division
-Marangoni flows · Interfacial flows · Soft matter
-
 ---
 
 ## About
 
 I am a postdoctoral researcher working on interfacial transport phenomena.
+[Download full CV (PDF)](/assets/cv.pdf)
 
 ---
 
