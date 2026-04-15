@@ -5,7 +5,7 @@ title: Home
 
 <div style="display:flex; align-items:center; gap:30px;">
 
-<img src="/assets/images/155.jpg" alt="profile" width="180" style="border-radius:10px;">
+<img src="/images/155.jpg" alt="profile" width="180" style="border-radius:10px;">
 
 <div>
 
