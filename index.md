@@ -9,7 +9,7 @@ title: Home
 
 <div>
 
-# Théo Lenavier
+# Théo Lenavetier
 
 Postdoctoral researcher in fluid dynamics  
 Marangoni flows · Interfacial flows · Soft matter
@@ -28,9 +28,7 @@ I am a postdoctoral researcher working on interfacial transport phenomena.
 
 ---
 
-## Research
-
-My work explores:
+## Research highlights
 
 - Marangoni-driven flows and interfacial stresses  
 - Lubricant-infused surfaces
